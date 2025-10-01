@@ -1,2 +1,0 @@
-# AgungRamadhan_103112430060_StrukturData
-Laprak Struktur Data
